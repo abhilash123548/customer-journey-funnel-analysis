@@ -1,0 +1,151 @@
+Customer ID,Customer Name,Customer Segment,Age Group,Region,Acquisition Channel,Campaign Name,Website Visit Date,Page Views,Product Viewed,Add to Cart,Checkout Started,Purchase Completed,Purchase Value,Session Duration,Bounce Status,Customer Feedback Score,Customer Retention Status,Funnel Stage,Conversion Status
+C001,Customer 001,New Visitor,18-24,South,Organic Search,SEO Growth,2026-07-01,5,Starter Plan,1,1,1,4999,310,No,4.5,Retained,Purchase,Converted
+C002,Customer 002,Returning,25-34,South,Instagram,Social Summer,2026-07-02,3,Pro Plan,1,1,0,0,205,No,3.2,Not Applicable,Checkout,Drop-off
+C003,Customer 003,High Value,35-44,West,Google Ads,Search Intent,2026-07-03,7,Pro Plan,1,1,1,7999,420,No,4.8,Retained,Purchase,Converted
+C004,Customer 004,New Visitor,18-24,North,Facebook Ads,Lead Gen Q3,2026-07-04,1,Starter Plan,0,0,0,0,42,Yes,2.5,Not Applicable,Visit,Drop-off
+C005,Customer 005,Loyal,45-54,West,Email,Retention July,2026-07-05,6,Premium Plan,1,1,1,9999,480,No,4.9,Retained,Purchase,Converted
+C006,Customer 006,Returning,25-34,South,Referral,Customer Referral,2026-07-06,4,Starter Plan,1,1,0,0,260,No,3.7,Not Applicable,Checkout,Drop-off
+C007,Customer 007,High Value,35-44,South,Google Ads,Search Intent,2026-07-07,8,Premium Plan,1,1,1,11999,515,No,4.7,Retained,Purchase,Converted
+C008,Customer 008,New Visitor,25-34,East,Instagram,Social Summer,2026-07-08,2,Starter Plan,0,0,0,0,75,Yes,2.8,Not Applicable,Visit,Drop-off
+C009,Customer 009,Returning,35-44,North,Organic Search,SEO Growth,2026-07-09,5,Pro Plan,1,1,1,7999,330,No,4.3,Churned,Purchase,Converted
+C010,Customer 010,Loyal,45-54,South,Email,Retention July,2026-07-10,9,Premium Plan,1,1,1,9999,550,No,5.0,Retained,Purchase,Converted
+C011,Customer 011,New Visitor,18-24,East,Facebook Ads,Lead Gen Q3,2026-07-11,4,Starter Plan,1,0,0,0,145,No,3.1,Not Applicable,Add to Cart,Drop-off
+C012,Customer 012,Returning,25-34,West,Instagram,Social Summer,2026-07-12,6,Pro Plan,1,1,1,7999,390,No,4.1,Retained,Purchase,Converted
+C013,Customer 013,High Value,35-44,North,Referral,Customer Referral,2026-07-13,8,Premium Plan,1,1,1,11999,510,No,4.8,Retained,Purchase,Converted
+C014,Customer 014,New Visitor,25-34,South,Google Ads,Search Intent,2026-07-14,3,Starter Plan,1,0,0,0,160,No,3.0,Not Applicable,Add to Cart,Drop-off
+C015,Customer 015,Loyal,55+,West,Email,Retention July,2026-07-15,10,Premium Plan,1,1,1,12999,600,No,4.9,Retained,Purchase,Converted
+C016,Customer 016,Returning,35-44,South,Organic Search,SEO Growth,2026-07-16,5,Pro Plan,1,1,0,0,280,No,3.5,Not Applicable,Checkout,Drop-off
+C017,Customer 017,New Visitor,18-24,North,Facebook Ads,Lead Gen Q3,2026-07-17,1,Starter Plan,0,0,0,0,38,Yes,2.2,Not Applicable,Visit,Drop-off
+C018,Customer 018,High Value,35-44,East,Google Ads,Search Intent,2026-07-18,9,Premium Plan,1,1,1,11999,525,No,4.6,Retained,Purchase,Converted
+C019,Customer 019,Returning,25-34,West,Instagram,Social Summer,2026-07-19,4,Pro Plan,1,1,1,7999,315,No,4.0,Churned,Purchase,Converted
+C020,Customer 020,Loyal,45-54,South,Referral,Customer Referral,2026-07-20,7,Premium Plan,1,1,1,9999,455,No,4.7,Retained,Purchase,Converted
+C021,Customer 021,New Visitor,25-34,East,Organic Search,SEO Growth,2026-07-21,2,Starter Plan,0,0,0,0,88,Yes,2.9,Not Applicable,Visit,Drop-off
+C022,Customer 022,Returning,35-44,South,Google Ads,Search Intent,2026-07-22,6,Pro Plan,1,1,1,7999,365,No,4.4,Retained,Purchase,Converted
+C023,Customer 023,High Value,45-54,North,Email,Retention July,2026-07-23,8,Premium Plan,1,1,1,12999,575,No,4.9,Retained,Purchase,Converted
+C024,Customer 024,New Visitor,18-24,West,Facebook Ads,Lead Gen Q3,2026-07-24,3,Starter Plan,1,1,0,0,210,No,3.4,Not Applicable,Checkout,Drop-off
+C025,Customer 025,Returning,25-34,South,Instagram,Social Summer,2026-07-25,5,Pro Plan,1,1,1,7999,340,No,4.2,Retained,Purchase,Converted
+C026,Customer 026,Loyal,45-54,East,Referral,Customer Referral,2026-07-26,7,Premium Plan,1,1,1,9999,465,No,4.8,Retained,Purchase,Converted
+C027,Customer 027,New Visitor,18-24,North,Facebook Ads,Lead Gen Q3,2026-07-27,2,Starter Plan,0,0,0,0,55,Yes,2.6,Not Applicable,Visit,Drop-off
+C028,Customer 028,High Value,35-44,West,Google Ads,Search Intent,2026-07-28,9,Premium Plan,1,1,1,11999,535,No,4.9,Retained,Purchase,Converted
+C029,Customer 029,Returning,25-34,South,Organic Search,SEO Growth,2026-07-29,5,Pro Plan,1,0,0,0,180,No,3.3,Not Applicable,Add to Cart,Drop-off
+C030,Customer 030,Loyal,55+,North,Email,Retention July,2026-07-30,10,Premium Plan,1,1,1,12999,610,No,5.0,Retained,Purchase,Converted
+C031,Customer 031,New Visitor,18-24,South,Instagram,Social Summer,2026-08-01,3,Starter Plan,0,0,0,0,65,Yes,2.7,Not Applicable,Visit,Drop-off
+C032,Customer 032,Returning,25-34,East,Referral,Customer Referral,2026-08-02,6,Pro Plan,1,1,1,7999,375,No,4.3,Retained,Purchase,Converted
+C033,Customer 033,High Value,35-44,South,Google Ads,Search Intent,2026-08-03,8,Premium Plan,1,1,1,11999,505,No,4.7,Retained,Purchase,Converted
+C034,Customer 034,New Visitor,25-34,West,Facebook Ads,Lead Gen Q3,2026-08-04,4,Starter Plan,1,0,0,0,130,No,3.0,Not Applicable,Add to Cart,Drop-off
+C035,Customer 035,Loyal,45-54,South,Email,Retention July,2026-08-05,9,Premium Plan,1,1,1,9999,565,No,4.9,Retained,Purchase,Converted
+C036,Customer 036,Returning,35-44,North,Organic Search,SEO Growth,2026-08-06,6,Pro Plan,1,1,1,7999,385,No,4.1,Churned,Purchase,Converted
+C037,Customer 037,New Visitor,18-24,East,Instagram,Social Summer,2026-08-07,2,Starter Plan,0,0,0,0,70,Yes,2.5,Not Applicable,Visit,Drop-off
+C038,Customer 038,High Value,35-44,West,Google Ads,Search Intent,2026-08-08,9,Premium Plan,1,1,1,12999,540,No,4.8,Retained,Purchase,Converted
+C039,Customer 039,Returning,25-34,South,Referral,Customer Referral,2026-08-09,5,Pro Plan,1,1,0,0,295,No,3.8,Not Applicable,Checkout,Drop-off
+C040,Customer 040,Loyal,45-54,North,Email,Retention July,2026-08-10,10,Premium Plan,1,1,1,9999,590,No,4.9,Retained,Purchase,Converted
+C041,Customer 041,New Visitor,25-34,South,Facebook Ads,Lead Gen Q3,2026-08-11,1,Starter Plan,0,0,0,0,40,Yes,2.3,Not Applicable,Visit,Drop-off
+C042,Customer 042,Returning,35-44,East,Organic Search,SEO Growth,2026-08-12,7,Pro Plan,1,1,1,7999,405,No,4.4,Retained,Purchase,Converted
+C043,Customer 043,High Value,45-54,West,Google Ads,Search Intent,2026-08-13,9,Premium Plan,1,1,1,12999,555,No,4.8,Retained,Purchase,Converted
+C044,Customer 044,New Visitor,18-24,North,Instagram,Social Summer,2026-08-14,3,Starter Plan,1,0,0,0,155,No,3.1,Not Applicable,Add to Cart,Drop-off
+C045,Customer 045,Loyal,55+,South,Referral,Customer Referral,2026-08-15,8,Premium Plan,1,1,1,9999,500,No,4.7,Retained,Purchase,Converted
+C046,Customer 046,New Visitor,25-34,East,Facebook Ads,Lead Gen Q3,2026-08-16,2,Starter Plan,0,0,0,0,60,Yes,2.4,Not Applicable,Visit,Drop-off
+C047,Customer 047,Returning,25-34,South,Google Ads,Search Intent,2026-08-17,6,Pro Plan,1,1,1,7999,350,No,4.3,Retained,Purchase,Converted
+C048,Customer 048,High Value,35-44,North,Email,Retention July,2026-08-18,10,Premium Plan,1,1,1,12999,620,No,5.0,Retained,Purchase,Converted
+C049,Customer 049,New Visitor,18-24,West,Organic Search,SEO Growth,2026-08-19,4,Starter Plan,1,1,0,0,220,No,3.6,Not Applicable,Checkout,Drop-off
+C050,Customer 050,Returning,45-54,South,Instagram,Social Summer,2026-08-20,5,Pro Plan,1,1,1,7999,325,No,4.0,Churned,Purchase,Converted
+C051,Customer 051,Loyal,45-54,East,Referral,Customer Referral,2026-08-21,8,Premium Plan,1,1,1,9999,475,No,4.8,Retained,Purchase,Converted
+C052,Customer 052,New Visitor,25-34,North,Facebook Ads,Lead Gen Q3,2026-08-22,2,Starter Plan,0,0,0,0,52,Yes,2.7,Not Applicable,Visit,Drop-off
+C053,Customer 053,Returning,35-44,West,Google Ads,Search Intent,2026-08-23,7,Pro Plan,1,1,1,7999,395,No,4.5,Retained,Purchase,Converted
+C054,Customer 054,High Value,35-44,South,Email,Retention July,2026-08-24,9,Premium Plan,1,1,1,12999,545,No,4.9,Retained,Purchase,Converted
+C055,Customer 055,New Visitor,18-24,East,Instagram,Social Summer,2026-08-25,3,Starter Plan,0,0,0,0,80,Yes,2.8,Not Applicable,Visit,Drop-off
+C056,Customer 056,Returning,25-34,South,Organic Search,SEO Growth,2026-08-26,5,Pro Plan,1,0,0,0,170,No,3.2,Not Applicable,Add to Cart,Drop-off
+C057,Customer 057,Loyal,45-54,West,Referral,Customer Referral,2026-08-27,8,Premium Plan,1,1,1,9999,490,No,4.8,Retained,Purchase,Converted
+C058,Customer 058,New Visitor,25-34,North,Facebook Ads,Lead Gen Q3,2026-08-28,4,Starter Plan,1,1,0,0,215,No,3.3,Not Applicable,Checkout,Drop-off
+C059,Customer 059,High Value,35-44,South,Google Ads,Search Intent,2026-08-29,9,Premium Plan,1,1,1,11999,530,No,4.7,Retained,Purchase,Converted
+C060,Customer 060,Returning,45-54,East,Email,Retention July,2026-08-30,7,Pro Plan,1,1,1,7999,430,No,4.4,Retained,Purchase,Converted
+C061,Customer 061,New Visitor,18-24,West,Instagram,Social Summer,2026-08-31,2,Starter Plan,0,0,0,0,58,Yes,2.6,Not Applicable,Visit,Drop-off
+C062,Customer 062,Returning,25-34,South,Referral,Customer Referral,2026-09-01,6,Pro Plan,1,1,1,7999,370,No,4.2,Retained,Purchase,Converted
+C063,Customer 063,High Value,35-44,North,Google Ads,Search Intent,2026-09-02,10,Premium Plan,1,1,1,12999,560,No,4.9,Retained,Purchase,Converted
+C064,Customer 064,New Visitor,25-34,East,Facebook Ads,Lead Gen Q3,2026-09-03,3,Starter Plan,1,0,0,0,125,No,3.0,Not Applicable,Add to Cart,Drop-off
+C065,Customer 065,Loyal,55+,West,Email,Retention July,2026-09-04,9,Premium Plan,1,1,1,12999,605,No,5.0,Retained,Purchase,Converted
+C066,Customer 066,Returning,35-44,South,Organic Search,SEO Growth,2026-09-05,6,Pro Plan,1,1,0,0,285,No,3.6,Not Applicable,Checkout,Drop-off
+C067,Customer 067,New Visitor,18-24,North,Instagram,Social Summer,2026-09-06,2,Starter Plan,0,0,0,0,48,Yes,2.4,Not Applicable,Visit,Drop-off
+C068,Customer 068,High Value,35-44,East,Google Ads,Search Intent,2026-09-07,8,Premium Plan,1,1,1,11999,520,No,4.8,Retained,Purchase,Converted
+C069,Customer 069,Returning,25-34,West,Referral,Customer Referral,2026-09-08,5,Pro Plan,1,1,1,7999,335,No,4.1,Churned,Purchase,Converted
+C070,Customer 070,Loyal,45-54,South,Email,Retention July,2026-09-09,10,Premium Plan,1,1,1,9999,580,No,4.9,Retained,Purchase,Converted
+C071,Customer 071,New Visitor,25-34,East,Facebook Ads,Lead Gen Q3,2026-09-10,1,Starter Plan,0,0,0,0,35,Yes,2.1,Not Applicable,Visit,Drop-off
+C072,Customer 072,Returning,35-44,South,Organic Search,SEO Growth,2026-09-11,7,Pro Plan,1,1,1,7999,410,No,4.5,Retained,Purchase,Converted
+C073,Customer 073,High Value,45-54,North,Google Ads,Search Intent,2026-09-12,9,Premium Plan,1,1,1,12999,570,No,4.9,Retained,Purchase,Converted
+C074,Customer 074,New Visitor,18-24,West,Instagram,Social Summer,2026-09-13,3,Starter Plan,1,0,0,0,150,No,3.2,Not Applicable,Add to Cart,Drop-off
+C075,Customer 075,Loyal,55+,South,Referral,Customer Referral,2026-09-14,8,Premium Plan,1,1,1,9999,510,No,4.8,Retained,Purchase,Converted
+C076,Customer 076,New Visitor,25-34,East,Facebook Ads,Lead Gen Q3,2026-09-15,2,Starter Plan,0,0,0,0,63,Yes,2.5,Not Applicable,Visit,Drop-off
+C077,Customer 077,Returning,25-34,South,Google Ads,Search Intent,2026-09-16,6,Pro Plan,1,1,1,7999,360,No,4.3,Retained,Purchase,Converted
+C078,Customer 078,High Value,35-44,West,Email,Retention July,2026-09-17,10,Premium Plan,1,1,1,12999,615,No,5.0,Retained,Purchase,Converted
+C079,Customer 079,New Visitor,18-24,North,Organic Search,SEO Growth,2026-09-18,4,Starter Plan,1,1,0,0,230,No,3.5,Not Applicable,Checkout,Drop-off
+C080,Customer 080,Returning,45-54,South,Instagram,Social Summer,2026-09-19,5,Pro Plan,1,1,1,7999,330,No,4.0,Churned,Purchase,Converted
+C081,Customer 081,Loyal,45-54,East,Referral,Customer Referral,2026-09-20,8,Premium Plan,1,1,1,9999,480,No,4.7,Retained,Purchase,Converted
+C082,Customer 082,New Visitor,25-34,North,Facebook Ads,Lead Gen Q3,2026-09-21,2,Starter Plan,0,0,0,0,50,Yes,2.6,Not Applicable,Visit,Drop-off
+C083,Customer 083,Returning,35-44,West,Google Ads,Search Intent,2026-09-22,7,Pro Plan,1,1,1,7999,400,No,4.4,Retained,Purchase,Converted
+C084,Customer 084,High Value,35-44,South,Email,Retention July,2026-09-23,9,Premium Plan,1,1,1,12999,550,No,4.9,Retained,Purchase,Converted
+C085,Customer 085,New Visitor,18-24,East,Instagram,Social Summer,2026-09-24,3,Starter Plan,0,0,0,0,77,Yes,2.7,Not Applicable,Visit,Drop-off
+C086,Customer 086,Returning,25-34,South,Organic Search,SEO Growth,2026-09-25,5,Pro Plan,1,0,0,0,175,No,3.4,Not Applicable,Add to Cart,Drop-off
+C087,Customer 087,Loyal,45-54,West,Referral,Customer Referral,2026-09-26,8,Premium Plan,1,1,1,9999,495,No,4.8,Retained,Purchase,Converted
+C088,Customer 088,New Visitor,25-34,North,Facebook Ads,Lead Gen Q3,2026-09-27,4,Starter Plan,1,1,0,0,225,No,3.2,Not Applicable,Checkout,Drop-off
+C089,Customer 089,High Value,35-44,South,Google Ads,Search Intent,2026-09-28,9,Premium Plan,1,1,1,11999,535,No,4.8,Retained,Purchase,Converted
+C090,Customer 090,Returning,45-54,East,Email,Retention July,2026-09-29,7,Pro Plan,1,1,1,7999,440,No,4.5,Retained,Purchase,Converted
+C091,Customer 091,New Visitor,18-24,West,Instagram,Social Summer,2026-09-30,2,Starter Plan,0,0,0,0,55,Yes,2.5,Not Applicable,Visit,Drop-off
+C092,Customer 092,Returning,25-34,South,Referral,Customer Referral,2026-10-01,6,Pro Plan,1,1,1,7999,380,No,4.2,Retained,Purchase,Converted
+C093,Customer 093,High Value,35-44,North,Google Ads,Search Intent,2026-10-02,10,Premium Plan,1,1,1,12999,565,No,4.9,Retained,Purchase,Converted
+C094,Customer 094,New Visitor,25-34,East,Facebook Ads,Lead Gen Q3,2026-10-03,3,Starter Plan,1,0,0,0,135,No,3.1,Not Applicable,Add to Cart,Drop-off
+C095,Customer 095,Loyal,55+,West,Email,Retention July,2026-10-04,9,Premium Plan,1,1,1,12999,610,No,5.0,Retained,Purchase,Converted
+C096,Customer 096,Returning,35-44,South,Organic Search,SEO Growth,2026-10-05,6,Pro Plan,1,1,0,0,290,No,3.7,Not Applicable,Checkout,Drop-off
+C097,Customer 097,New Visitor,18-24,North,Instagram,Social Summer,2026-10-06,2,Starter Plan,0,0,0,0,45,Yes,2.3,Not Applicable,Visit,Drop-off
+C098,Customer 098,High Value,35-44,East,Google Ads,Search Intent,2026-10-07,8,Premium Plan,1,1,1,11999,525,No,4.7,Retained,Purchase,Converted
+C099,Customer 099,Returning,25-34,West,Referral,Customer Referral,2026-10-08,5,Pro Plan,1,1,1,7999,345,No,4.0,Churned,Purchase,Converted
+C100,Customer 100,Loyal,45-54,South,Email,Retention July,2026-10-09,10,Premium Plan,1,1,1,9999,585,No,4.9,Retained,Purchase,Converted
+C101,Customer 101,New Visitor,25-34,East,Facebook Ads,Lead Gen Q3,2026-10-10,1,Starter Plan,0,0,0,0,39,Yes,2.2,Not Applicable,Visit,Drop-off
+C102,Customer 102,Returning,35-44,South,Organic Search,SEO Growth,2026-10-11,7,Pro Plan,1,1,1,7999,415,No,4.5,Retained,Purchase,Converted
+C103,Customer 103,High Value,45-54,North,Google Ads,Search Intent,2026-10-12,9,Premium Plan,1,1,1,12999,575,No,4.9,Retained,Purchase,Converted
+C104,Customer 104,New Visitor,18-24,West,Instagram,Social Summer,2026-10-13,3,Starter Plan,1,0,0,0,158,No,3.0,Not Applicable,Add to Cart,Drop-off
+C105,Customer 105,Loyal,55+,South,Referral,Customer Referral,2026-10-14,8,Premium Plan,1,1,1,9999,515,No,4.8,Retained,Purchase,Converted
+C106,Customer 106,New Visitor,25-34,East,Facebook Ads,Lead Gen Q3,2026-10-15,2,Starter Plan,0,0,0,0,61,Yes,2.6,Not Applicable,Visit,Drop-off
+C107,Customer 107,Returning,25-34,South,Google Ads,Search Intent,2026-10-16,6,Pro Plan,1,1,1,7999,365,No,4.3,Retained,Purchase,Converted
+C108,Customer 108,High Value,35-44,West,Email,Retention July,2026-10-17,10,Premium Plan,1,1,1,12999,625,No,5.0,Retained,Purchase,Converted
+C109,Customer 109,New Visitor,18-24,North,Organic Search,SEO Growth,2026-10-18,4,Starter Plan,1,1,0,0,235,No,3.5,Not Applicable,Checkout,Drop-off
+C110,Customer 110,Returning,45-54,South,Instagram,Social Summer,2026-10-19,5,Pro Plan,1,1,1,7999,335,No,4.1,Churned,Purchase,Converted
+C111,Customer 111,Loyal,45-54,East,Referral,Customer Referral,2026-10-20,8,Premium Plan,1,1,1,9999,485,No,4.8,Retained,Purchase,Converted
+C112,Customer 112,New Visitor,25-34,North,Facebook Ads,Lead Gen Q3,2026-10-21,2,Starter Plan,0,0,0,0,53,Yes,2.7,Not Applicable,Visit,Drop-off
+C113,Customer 113,Returning,35-44,West,Google Ads,Search Intent,2026-10-22,7,Pro Plan,1,1,1,7999,405,No,4.4,Retained,Purchase,Converted
+C114,Customer 114,High Value,35-44,South,Email,Retention July,2026-10-23,9,Premium Plan,1,1,1,12999,555,No,4.9,Retained,Purchase,Converted
+C115,Customer 115,New Visitor,18-24,East,Instagram,Social Summer,2026-10-24,3,Starter Plan,0,0,0,0,82,Yes,2.8,Not Applicable,Visit,Drop-off
+C116,Customer 116,Returning,25-34,South,Organic Search,SEO Growth,2026-10-25,5,Pro Plan,1,0,0,0,185,No,3.3,Not Applicable,Add to Cart,Drop-off
+C117,Customer 117,Loyal,45-54,West,Referral,Customer Referral,2026-10-26,8,Premium Plan,1,1,1,9999,500,No,4.8,Retained,Purchase,Converted
+C118,Customer 118,New Visitor,25-34,North,Facebook Ads,Lead Gen Q3,2026-10-27,4,Starter Plan,1,1,0,0,218,No,3.2,Not Applicable,Checkout,Drop-off
+C119,Customer 119,High Value,35-44,South,Google Ads,Search Intent,2026-10-28,9,Premium Plan,1,1,1,11999,540,No,4.8,Retained,Purchase,Converted
+C120,Customer 120,Returning,45-54,East,Email,Retention July,2026-10-29,7,Pro Plan,1,1,1,7999,445,No,4.5,Retained,Purchase,Converted
+C121,Customer 121,New Visitor,18-24,West,Instagram,Social Summer,2026-10-30,2,Starter Plan,0,0,0,0,57,Yes,2.5,Not Applicable,Visit,Drop-off
+C122,Customer 122,Returning,25-34,South,Referral,Customer Referral,2026-10-31,6,Pro Plan,1,1,1,7999,385,No,4.2,Retained,Purchase,Converted
+C123,Customer 123,High Value,35-44,North,Google Ads,Search Intent,2026-11-01,10,Premium Plan,1,1,1,12999,570,No,4.9,Retained,Purchase,Converted
+C124,Customer 124,New Visitor,25-34,East,Facebook Ads,Lead Gen Q3,2026-11-02,3,Starter Plan,1,0,0,0,140,No,3.1,Not Applicable,Add to Cart,Drop-off
+C125,Customer 125,Loyal,55+,West,Email,Retention July,2026-11-03,9,Premium Plan,1,1,1,12999,615,No,5.0,Retained,Purchase,Converted
+C126,Customer 126,Returning,35-44,South,Organic Search,SEO Growth,2026-11-04,6,Pro Plan,1,1,0,0,300,No,3.8,Not Applicable,Checkout,Drop-off
+C127,Customer 127,New Visitor,18-24,North,Instagram,Social Summer,2026-11-05,2,Starter Plan,0,0,0,0,47,Yes,2.4,Not Applicable,Visit,Drop-off
+C128,Customer 128,High Value,35-44,East,Google Ads,Search Intent,2026-11-06,8,Premium Plan,1,1,1,11999,530,No,4.7,Retained,Purchase,Converted
+C129,Customer 129,Returning,25-34,West,Referral,Customer Referral,2026-11-07,5,Pro Plan,1,1,1,7999,350,No,4.0,Churned,Purchase,Converted
+C130,Customer 130,Loyal,45-54,South,Email,Retention July,2026-11-08,10,Premium Plan,1,1,1,9999,590,No,4.9,Retained,Purchase,Converted
+C131,Customer 131,New Visitor,25-34,East,Facebook Ads,Lead Gen Q3,2026-11-09,1,Starter Plan,0,0,0,0,36,Yes,2.1,Not Applicable,Visit,Drop-off
+C132,Customer 132,Returning,35-44,South,Organic Search,SEO Growth,2026-11-10,7,Pro Plan,1,1,1,7999,420,No,4.5,Retained,Purchase,Converted
+C133,Customer 133,High Value,45-54,North,Google Ads,Search Intent,2026-11-11,9,Premium Plan,1,1,1,12999,580,No,4.9,Retained,Purchase,Converted
+C134,Customer 134,New Visitor,18-24,West,Instagram,Social Summer,2026-11-12,3,Starter Plan,1,0,0,0,162,No,3.1,Not Applicable,Add to Cart,Drop-off
+C135,Customer 135,Loyal,55+,South,Referral,Customer Referral,2026-11-13,8,Premium Plan,1,1,1,9999,520,No,4.8,Retained,Purchase,Converted
+C136,Customer 136,New Visitor,25-34,East,Facebook Ads,Lead Gen Q3,2026-11-14,2,Starter Plan,0,0,0,0,59,Yes,2.6,Not Applicable,Visit,Drop-off
+C137,Customer 137,Returning,25-34,South,Google Ads,Search Intent,2026-11-15,6,Pro Plan,1,1,1,7999,370,No,4.3,Retained,Purchase,Converted
+C138,Customer 138,High Value,35-44,West,Email,Retention July,2026-11-16,10,Premium Plan,1,1,1,12999,630,No,5.0,Retained,Purchase,Converted
+C139,Customer 139,New Visitor,18-24,North,Organic Search,SEO Growth,2026-11-17,4,Starter Plan,1,1,0,0,240,No,3.5,Not Applicable,Checkout,Drop-off
+C140,Customer 140,Returning,45-54,South,Instagram,Social Summer,2026-11-18,5,Pro Plan,1,1,1,7999,340,No,4.1,Churned,Purchase,Converted
+C141,Customer 141,Loyal,45-54,East,Referral,Customer Referral,2026-11-19,8,Premium Plan,1,1,1,9999,490,No,4.8,Retained,Purchase,Converted
+C142,Customer 142,New Visitor,25-34,North,Facebook Ads,Lead Gen Q3,2026-11-20,2,Starter Plan,0,0,0,0,54,Yes,2.7,Not Applicable,Visit,Drop-off
+C143,Customer 143,Returning,35-44,West,Google Ads,Search Intent,2026-11-21,7,Pro Plan,1,1,1,7999,410,No,4.4,Retained,Purchase,Converted
+C144,Customer 144,High Value,35-44,South,Email,Retention July,2026-11-22,9,Premium Plan,1,1,1,12999,560,No,4.9,Retained,Purchase,Converted
+C145,Customer 145,New Visitor,18-24,East,Instagram,Social Summer,2026-11-23,3,Starter Plan,0,0,0,0,85,Yes,2.8,Not Applicable,Visit,Drop-off
+C146,Customer 146,Returning,25-34,South,Organic Search,SEO Growth,2026-11-24,5,Pro Plan,1,0,0,0,190,No,3.4,Not Applicable,Add to Cart,Drop-off
+C147,Customer 147,Loyal,45-54,West,Referral,Customer Referral,2026-11-25,8,Premium Plan,1,1,1,9999,505,No,4.8,Retained,Purchase,Converted
+C148,Customer 148,New Visitor,25-34,North,Facebook Ads,Lead Gen Q3,2026-11-26,4,Starter Plan,1,1,0,0,222,No,3.2,Not Applicable,Checkout,Drop-off
+C149,Customer 149,High Value,35-44,South,Google Ads,Search Intent,2026-11-27,9,Premium Plan,1,1,1,11999,545,No,4.8,Retained,Purchase,Converted
+C150,Customer 150,Returning,45-54,East,Email,Retention July,2026-11-28,7,Pro Plan,1,1,1,7999,450,No,4.5,Retained,Purchase,Converted
